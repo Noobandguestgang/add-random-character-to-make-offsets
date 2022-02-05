@@ -1,65 +1,65 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				318
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "RON_LEFT"
+			"fps": 24,
+			"name": "RON_LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-67
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "RON_DOWN"
+			"fps": 24,
+			"name": "RON_DOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				50
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "RON_UP"
+			"fps": 24,
+			"name": "RON_UP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				116
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "RON_IDLE"
+			"fps": 24,
+			"name": "RON_IDLE",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				71
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "RON_RIGHT"
+			"fps": 24,
+			"name": "RON_RIGHT",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/kill_yourself",
 	"position": [
-		30,
+		60,
 		240
 	],
 	"healthicon": "RONWITHHAIR",
