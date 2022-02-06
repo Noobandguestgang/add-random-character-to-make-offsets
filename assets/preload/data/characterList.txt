@@ -1,4 +1,10 @@
 bf
+bf-tf2
+engi-bf
+heavy
+scunt
+soldier
+gf-tf2
 dad
 punt
 ronwithhair
