@@ -1,5 +1,6 @@
 tutorial
 weektf2
+weekex
 week1
 week2
 week3
